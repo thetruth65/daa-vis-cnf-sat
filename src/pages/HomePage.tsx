@@ -56,7 +56,6 @@ const HomePage: React.FC = () => {
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Interactive Formula Builder" /></ListItem>
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Detailed, Step-by-Step Animation" /></ListItem>
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Full Animation Control (Play, Pause, Step Forward/Backward)" /></ListItem>
-                {/* --- NEW AND UPDATED FEATURES --- */}
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Accurate Visualization of Algorithmic Optimizations (Early-Exit Logic)" /></ListItem>
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Detailed Pseudo-code that Mirrors the Visualization" /></ListItem>
                 <ListItem><ListItemIcon><CheckCircleOutlineIcon color="primary" /></ListItemIcon><ListItemText primary="Clear, Responsive UI for All Devices" /></ListItem>
