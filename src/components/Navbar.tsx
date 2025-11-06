@@ -13,8 +13,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 const navItems = [
   { text: 'Home', path: '/' },
   { text: 'Visualize', path: '/visualizer' },
-  { text: 'Compare', path: '/compare' }, // <-- ADD THIS LINE
-  { text: 'Pseudo Code', path: '/pseudo-code' },
+  { text: 'Short-Circuit Logic', path: '/logic' }, // <-- UPDATED
   { text: 'Project Of', path: '/project-of' },
 ];
 
